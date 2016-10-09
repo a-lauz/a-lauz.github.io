@@ -1,0 +1,13 @@
+Game Night Meetup in Bellevue
+Home page:
+-description of game night
+-location + map
+-schedule
+-what to bring
+-brakets + prizes
+-link to our second page with game information
+Second page:
+-description of card games
+-description of board games
+-description of video games
+-description of puzzles

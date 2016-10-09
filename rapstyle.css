@@ -1,0 +1,15 @@
+h2 {
+  color: #00FFFF;
+  border: solid;
+  padding: 5px;
+  margin: 50px;
+  text-align: center;
+}
+.primaryColor {
+  color: #FF0000;
+  margin: auto;
+}
+#style1 {
+  color: #0000FF;
+  margin: auto;
+}
